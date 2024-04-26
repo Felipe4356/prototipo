@@ -1,0 +1,15 @@
+body{
+/* fondo para la pagina con una imagen */
+
+background-image: url(../img/tj-holowaychuk-1EYMue_AwDw-unsplash.jpg); 
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+
+.MENU{
+background-color: #416AE0 ;
+
+}
+

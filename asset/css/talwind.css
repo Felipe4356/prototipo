@@ -1,0 +1,12 @@
+@talwind base;
+@talwind components;
+@talwind utilities;
+
+
+.menu{
+   background-color: #416AE0;
+}
+.logo{
+    width: 120px;
+   
+}
